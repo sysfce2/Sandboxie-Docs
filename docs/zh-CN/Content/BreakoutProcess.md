@@ -29,4 +29,3 @@ _BreakoutProcess_ 是 [沙盘配置文件](SandboxieIni.md) 中的一项沙箱�
 假设您使用浏览器作为 PDF 查看器，并且有两个沙箱 “Browser” 和 “Email”。假设您通过电子邮件收到了一个 PDF 文件，并且希望该 PDF 文件在相应的 “Browser” 沙箱中打开一个浏览器标签，而不是在当前的 “Email” 沙箱中打开。您可以在 “Email” 沙箱中设置浏览器可分离沙箱运行，并在 “Browser” 沙箱中强制它运行。
 
 更多信息请查看 [强制进程](ForceProcess.md)。
-

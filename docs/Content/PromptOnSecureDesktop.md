@@ -15,5 +15,3 @@ Usage:
 ```
 
 This setting ensures that UAC prompts from sandboxed applications do not appear on the secure desktop, even if the system is configured otherwise.
-
-

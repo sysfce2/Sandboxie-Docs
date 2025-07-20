@@ -11,8 +11,8 @@ FakeAdminRights=[process,]y|n
 * **process** (optional): The name of the executable to which the rule applies. If omitted, the rule applies to all sandboxed applications.
 * **y|n**:
 
-    - `y` enables fake admin rights for the specified process (or all processes if none specified)  
-    - `n` disables fake admin rights for the specified process  
+    - `y` enables fake admin rights for the specified process (or all processes if none specified)
+    - `n` disables fake admin rights for the specified process
 
 
 This option is recommended to be used in combination with [DropAdminRights](DropAdminRights.md) to improve security. Most installers should still work with both options enabled.

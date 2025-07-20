@@ -2,7 +2,7 @@
 
 #### 教程：[沙盘入门](GettingStarted.md)
 
-#### 沙盘的 [使用技巧](UsageTips.md) 
+#### 沙盘的 [使用技巧](UsageTips.md)
 
 #### [沙盘控制面板](SandboxieControl.md) 使用手册
 
