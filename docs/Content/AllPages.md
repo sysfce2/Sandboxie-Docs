@@ -28,6 +28,10 @@
 
 ### B
 
+[Bind Adapter](BindAdapter.md)
+
+[Bind Adapter IP](BindAdapterIP.md)
+
 ~~[Block Drivers](BlockDrivers.md)~~ (removed since Sandboxie v4.xx)
 
 ~~[Block Fake Input](BlockFakeInput.md)~~ (removed since Sandboxie v4.xx)
@@ -162,6 +166,8 @@
 
 [Force Folder](ForceFolder.md)
 
+[Force Mark of The Web](ForceMarkOfTheWeb.md)
+
 [Force Process](ForceProcess.md)
 
 [Forget Password](ForgetPassword.md)
@@ -216,6 +222,8 @@
 
 [Immediate Recovery](ImmediateRecovery.md)
 
+[Import Box](ImportBox.md)
+
 [Inject Dll](InjectDll.md)
 
 [Inject Dll 64](InjectDll64.md)
@@ -244,6 +252,8 @@
 
 ### M
 
+[Mark Of The Web Box](MarkOfTheWebBox.md)
+
 [Messages From Sandboxie](MessagesFromSandboxie.md)
 
 [Monitor Admin Only](MonitorAdminOnly.md)
@@ -251,6 +261,8 @@
 [Msi Installer Exemptions](MsiInstallerExemptions.md)
 
 ### N
+
+[Network Adapter MAC](NetworkAdapterMAC.md)
 
 [Network Dns Filter](NetworkDnsFilter.md)
 
